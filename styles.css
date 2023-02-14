@@ -414,3 +414,94 @@ font-size: 20px;
 line-height: 30px;
 text-align: center;
 }
+
+.bg-top{
+max-width:394px;
+}
+
+.tb-logo{
+position: absolute;
+width: 264px;
+height: 60px;
+left: 63px;
+top: 136px;
+}
+
+.truck{
+position: absolute;
+width: 230px;
+height: 230px;
+left: 80px;
+top: 165px;
+}
+
+.login{
+margin-top: 250px;
+margin-left:45px;
+margin-right:45px;
+}
+
+.text-field{
+border: 1px solid #000000;
+border-radius: 5px;
+padding: 5px 50px 5px 15px;
+color:#FFFCF7;
+margin-top:0px;
+width:230px;
+}
+
+.remove-margin-bottom{
+margin-bottom: 0px;
+}
+
+.forgot-password{
+text-align:center;
+margin-top:10px;
+margin-bottom:10px;
+}
+
+.login-center{
+text-align: center;
+}
+
+.login-button{
+border: 3px solid #463A6C;
+border-radius: 30px;
+background-color:#FFFCF7;
+color:#463A6C;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+Width:231px;
+Height:54px;
+
+}
+
+.signup-center{
+    text-align: center;
+    }
+
+.signup-button{
+    border: 3px solid #463A6C;
+    border-radius: 30px;
+    background-color:#FFF1D9;
+    color:#463A6C;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    Width:231px;
+    Height:54px;
+    margin-top:15px;
+    }
+
+.bg-bottom{
+width:394px;
+position:absolute; 
+bottom:0;
+}
