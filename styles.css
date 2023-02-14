@@ -190,6 +190,7 @@ font-weight: 600;
 font-size: 28px;
 line-height: 42px;
 color: #463A6C;
+text-align: center;
 
 }
 .button{
@@ -514,3 +515,159 @@ bottom:0;
     margin-top:0px;
     width:230px;
     }
+
+.login-button-filled{
+border: 3px solid #463A6C;
+border-radius: 30px;
+background-color:#463A6C;
+color:white;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+Width:231px;
+Height:54px;}
+
+.total-payment{
+border: 1px solid #463A6C;
+border-radius: 10px;
+padding: 10px 20px 10px 20px;
+max-height: 74px;
+max-width: 312px;
+position: absolute;
+width: 356.04px;
+height: 101.71px;
+left: 16.98px;
+top: 182.89px;
+
+}
+.payment{
+text-align:center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 42px;
+color: #463A6C;
+margin-top: 40px;
+}
+
+.payment-options{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+color: #463A6C;
+text-align: center;
+margin-top: 140px;
+    
+}
+
+.venmo-image{
+width: 30px;;
+}
+
+.cash-image{
+width:40px;
+height:40px;
+}
+
+.venmo-flex{
+display: flex;
+justify-content:space-between;
+border: 2px solid #463A6C;
+border-radius: 10px;
+width:300px;
+text-align:center;
+padding: 6px 14px 6px 14px;
+margin:auto;
+height:40px;
+margin-bottom: 20px;
+}
+
+.venmo{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+padding-top:6px;
+color: #000000;
+}
+
+.complete-order-disbaled{
+    
+background: #C0BCD3;
+border-radius: 30px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+
+color: #FFFFFF;
+border:none;
+outline:none;
+width:230px;
+height:55px;
+position: absolute;
+width: 231px;
+height: 54px;
+left: 86.94px;
+top: 720px;
+
+}
+
+.venmo-pay{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+padding-top:6px;
+color:white;
+}
+
+.venmo-flex-pay{
+background-color: #463A6C;
+display: flex;
+justify-content:space-between;
+border: 2px solid #463A6C;
+border-radius: 10px;
+width:300px;
+text-align:center;
+padding: 6px 14px 6px 14px;
+margin:auto;
+height:40px;
+margin-bottom: 20px;
+    }
+
+
+.complete-order-active{
+    background:#463A6C;
+    border-radius: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    border:none;
+    outline:none;
+    width:230px;
+    height:55px;
+    position: absolute;
+    width: 231px;
+    height: 54px;
+    left: 86.94px;
+    top: 720px;}
+
+
+    
+        
